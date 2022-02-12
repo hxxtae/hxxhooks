@@ -1,3 +1,3 @@
-# @hxxs/use-title
+# @hxxhooks/use-title
 
 React Hook to update your document's title
