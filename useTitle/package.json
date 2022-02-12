@@ -1,0 +1,25 @@
+{
+  "name": "@hxxhooks/use-title",
+  "version": "1.0.2",
+  "description": "Reack Hook to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hxxtae/hxxhooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "Heetae Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hxxtae/hxxs/issues"
+  },
+  "homepage": "https://github.com/hxxtae/hxxs#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
